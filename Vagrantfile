@@ -15,7 +15,8 @@ end
 
 GB=1024
 
-IP_PREFIX="172.22.22" # vbox virtual bridge
+#IP_PREFIX="172.22.22" # vbox virtual bridge on previous ubuntu releases
+IP_PREFIX="192.168.56" # vbox virtual bridge on ubuntu 22.04
 #IP_PREFIX="172.55.55" # libvirt virtual bridge
 
 NODE_RAM=6192
