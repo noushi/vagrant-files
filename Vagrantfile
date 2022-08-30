@@ -18,7 +18,7 @@ GB=1024
 IP_PREFIX="172.22.22" # vbox virtual bridge
 #IP_PREFIX="172.55.55" # libvirt virtual bridge
 
-NODE_RAM=12288
+NODE_RAM=6192
 DISK_SIZE=10*GB
 ADD_DISK_FLAG=false
 
